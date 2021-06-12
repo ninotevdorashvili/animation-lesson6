@@ -10,7 +10,7 @@ body {
 }
 .guru-block {
     position: absolute;
-    bottom: 0;
+    bottom: 5%;
     left: 50%;
     transform:translate(-50%, 0);
     animation: guru 3s infinite alternate ease-in-out;
